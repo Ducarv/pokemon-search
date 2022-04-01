@@ -102,6 +102,7 @@
 .pokemon--card img {
     width: auto;
     height: 17rem;
+    filter: drop-shadow(3px -3px 13px #000);
 }
 
 .pokemon--infos {
